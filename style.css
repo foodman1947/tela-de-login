@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+div.box{
+    width: 30%;
+    height: 300px;
+    background-color: aquamarine;
+    position: center;
+    transform: -50% -50%;
+}
